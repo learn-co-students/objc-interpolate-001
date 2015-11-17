@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2" : 0,
+    "F9805C79BAB210B94A68759E9026981E5591643F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "79E019FA-E941-4F5E-8995-B3F444B838E2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2" : "objc-interpolate-001\/",
+    "F9805C79BAB210B94A68759E9026981E5591643F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "objc-interpolate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "objc-interpolate.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rayning0\/objc-interpolate-001.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rayning0\/ios-your-first-NSLog.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9805C79BAB210B94A68759E9026981E5591643F"
+    }
+  ]
+}
